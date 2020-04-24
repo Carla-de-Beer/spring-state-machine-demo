@@ -1,5 +1,7 @@
 # Spring State Machine
 
+[![CircleCI](https://circleci.com/gh/Carla-de-Beer/spring-state-machine.svg?style=svg)](https://circleci.com/gh/Carla-de-Beer/spring-state-machine)
+
 A Spring State Machine demo project using the credit card authorisation process to demonstrate the different state changes.
 
 The card payment process transitions through the following states:
